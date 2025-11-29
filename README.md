@@ -6,8 +6,8 @@
 
 <div align="center">
   <img src="view/屏幕截图 2025-11-29 190317.png" width="800" alt="锦秋诗词主界面" />
-  <img src="view/屏幕截图 2025-11-29 190323.png" width="400" alt="诗词卡片" />
-  <img src="view/屏幕截图 2025-11-29 190330.png" width="400" alt="功能展示" />
+  <img src="view/屏幕截图 2025-11-29 190323.png" width="800" alt="诗词卡片" />
+  <img src="view/屏幕截图 2025-11-29 190330.png" width="800" alt="功能展示" />
   <img src="view/屏幕截图 2025-11-29 190348.png" width="800" alt="游戏界面" />
 </div>
 
@@ -48,7 +48,7 @@
 - 将喜欢的诗词加入个人收藏
 
 ### 🤖 AI学者
-- AI智能赏析诗词（需配置API密钥）
+- AI智能赏析诗词
 - 主题式诗词搜索
 - 深度解读诗词意境
 
