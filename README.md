@@ -1,20 +1,132 @@
+# 锦秋诗词 - 中国古典诗词鉴赏
+
+> 品读中国古典诗词之美，传承中华文化精髓。
+
+## 📸 应用预览
+
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img src="view/屏幕截图 2025-11-29 190317.png" width="800" alt="锦秋诗词主界面" />
+  <br/><br/>
+  <img src="view/屏幕截图 2025-11-29 190323.png" width="400" alt="诗词卡片" />
+  <img src="view/屏幕截图 2025-11-29 190330.png" width="400" alt="功能展示" />
+  <img src="view/屏幕截图 2025-11-29 190348.png" width="800" alt="游戏界面" />
 </div>
 
-# Run and deploy your AI Studio app
+## 📖 项目介绍
 
-This contains everything you need to run your app locally.
+欢迎使用锦秋诗词！这是一个精美的中国古典诗词鉴赏应用，致力于传承中华文化之美。
 
-View your app in AI Studio: https://ai.studio/apps/drive/1bptPKydo7kCoQHFuXRwTS18oqx5IUkdT
+## ✨ 核心特色
 
-## Run Locally
+### 🎴 精美诗词卡片 - 独家特色！
 
-**Prerequisites:**  Node.js
+锦秋诗词最引以为傲的功能是**极致精美的诗词卡片系统**：
 
+- **视觉盛宴**：每一张诗词卡片都经过精心设计
+  - 雅致的色彩主题（多种配色方案轮换）
+  - 经典的传统纹样装饰
+  - 唯美的古风人物插画
+  - 充满艺术感的渐变背景
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- **一键分享**：
+  - 在任意诗词卡片上点击分享按钮
+  - 自动生成高清精美图片
+  - 完美适配社交媒体分享
+  - 布局考究：标题 → 作者 → 正文，错落有致
+
+- **智能分类**：
+  - 唐诗三百首
+  - 宋词三百首
+  - 水墨唐诗
+  - 纳兰性德诗集
+  - 五代诗词
+  - 诗经
+  - 个性化藏书
+
+### 📚 藏书阁
+- 浏览数千首经典诗词
+- 支持按标题、作者或内容搜索
+- 将喜欢的诗词加入个人收藏
+
+### 🤖 AI学者
+- AI智能赏析诗词（需配置API密钥）
+- 主题式诗词搜索
+- 深度解读诗词意境
+
+### 🎮 趣游雅集
+- **诗词填空**：考验您的诗词记忆
+- **对联挑战**：感受对仗工整之美
+- **飞花令**：挑战诗词接龙
+- **画境创作**：诗词与美图的完美融合
+
+## 🎨 诗词卡片设计理念
+
+我们的诗词卡片不仅仅是文字的载体，更是艺术的呈现：
+- **视觉惊艳**：专业级配色与排版
+- **文化底蕴**：融入传统中国美学元素
+- **便于分享**：生成高质量PNG图片
+- **风格多样**：不同朝代对应不同主题风格
+
+每张卡片包含：
+- 醒目典雅的标题字体
+- 清晰的作者与朝代标注
+- 排版优美的诗词正文
+- 装饰性背景元素
+- 品牌水印与古风插画
+
+## 🚀 快速开始
+
+### 开发环境运行
+
+```bash
+# 安装依赖
+npm install
+
+# 启动开发服务器
+npm run dev
+```
+
+### 生产环境构建
+
+```bash
+# 构建项目
+npm run build
+
+# 预览构建结果
+npm run preview
+```
+
+## ⚙️ AI功能配置（可选）
+
+如需使用AI赏析功能：
+
+1. 在应用文件夹中创建 `.env` 文件
+2. 添加以下内容：
+   ```
+   GEMINI_API_KEY=您的API密钥
+   ```
+3. 保存文件并重启应用
+
+获取API密钥：访问 https://makersuite.google.com/app/apikey
+
+## 🛠️ 技术栈
+
+- **前端框架**：React 19 + TypeScript
+- **构建工具**：Vite 6
+- **样式库**：Tailwind CSS
+- **图标库**：Lucide React
+- **AI集成**：Google Gemini API
+
+## 📜 版权说明
+
+- 诗词内容源自公开领域
+- 界面设计与开发：锦秋诗词团队
+- 仅供学习交流使用
+
+---
+
+## 🌟 品味诗词之美
+
+锦秋诗词致力于传承中华诗词文化，让每个人都能轻松感受古诗词的韵律与意境。
+
+**祝您使用愉快！**
