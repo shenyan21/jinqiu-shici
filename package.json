@@ -1,0 +1,29 @@
+{
+  "name": "jinqiu-shici",
+  "productName": "锦秋诗词",
+  "version": "1.0.0",
+  "description": "品读中国古典诗词之美",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@google/genai": "^1.30.0",
+    "html2canvas": "^1.4.1",
+    "lucide-react": "^0.555.0",
+    "opencc-js": "^1.0.5",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-markdown": "^10.1.0",
+    "remark-breaks": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}
