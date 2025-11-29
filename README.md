@@ -6,7 +6,6 @@
 
 <div align="center">
   <img src="view/屏幕截图 2025-11-29 190317.png" width="800" alt="锦秋诗词主界面" />
-  <br/><br/>
   <img src="view/屏幕截图 2025-11-29 190323.png" width="400" alt="诗词卡片" />
   <img src="view/屏幕截图 2025-11-29 190330.png" width="400" alt="功能展示" />
   <img src="view/屏幕截图 2025-11-29 190348.png" width="800" alt="游戏界面" />
@@ -18,7 +17,7 @@
 
 ## ✨ 核心特色
 
-### 🎴 精美诗词卡片 - 独家特色！
+### 🎴 精美诗词卡片 - 独家特色
 
 锦秋诗词最引以为傲的功能是**极致精美的诗词卡片系统**：
 
@@ -96,26 +95,13 @@ npm run build
 npm run preview
 ```
 
-## ⚙️ AI功能配置（可选）
-
-如需使用AI赏析功能：
-
-1. 在应用文件夹中创建 `.env` 文件
-2. 添加以下内容：
-   ```
-   GEMINI_API_KEY=您的API密钥
-   ```
-3. 保存文件并重启应用
-
-获取API密钥：访问 https://makersuite.google.com/app/apikey
-
 ## 🛠️ 技术栈
 
 - **前端框架**：React 19 + TypeScript
 - **构建工具**：Vite 6
 - **样式库**：Tailwind CSS
 - **图标库**：Lucide React
-- **AI集成**：Google Gemini API
+- **AI集成**：讯飞星火spark
 
 ## 📜 版权说明
 
